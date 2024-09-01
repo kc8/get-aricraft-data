@@ -1,0 +1,6 @@
+*.txt
+*.zip
+*.pdf
+*.db
+dist/*
+aircraft-lookup
